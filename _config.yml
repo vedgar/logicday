@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: World Logic Day
 description: Zagreb, 13--14 January 2023
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/logicday"
 url: "https://vedgar.github.io"
