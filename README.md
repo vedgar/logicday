@@ -27,8 +27,7 @@ Online participants should register via mail to the same address with the same s
 
 <b>Venue</b>
 <br>
-<a href="https://www.pmf.unizg.hr/math/en">Universty of Zagreb-Department of Mathematics</a>
-<br>
+<a href="https://www.pmf.unizg.hr/math/en">Universty of Zagreb-Department of Mathematics</a>,
 <a href="https://www.google.com/maps/place/Faculty+of+Science+-+Department+of+Mathematics/@45.8268991,15.9833407,17z/data=!3m1!4b1!4m5!3m4!1s0x4765d70eb94a8233:0x19534949a4612a83!8m2!3d45.8268954!4d15.9855294">Map</a>
 
 
@@ -36,4 +35,4 @@ Online participants should register via mail to the same address with the same s
 <br>
 Tin Adlešić, tin.adlesic@ufzg.hr
 <br>
-Vedran Čačić, veky@math.hr 
+Vedran Čačić, veky@math.hr
