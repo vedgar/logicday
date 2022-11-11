@@ -11,34 +11,34 @@
   <button class="w3-bar-item w3-button" onclick="openCity('Tokyo')">Tokyo</button>
 </div>
 
-<div id="London" class="w3-container city">
+<div id="Home" class="tab">
   <h2>London</h2>
   <p>London is the capital city of England.</p>
 </div>
 
-<div id="Paris" class="w3-container city" style="display:none">
+<div id="Home2" class="tab" style="display:none">
   <h2>Paris</h2>
   <p>Paris is the capital of France.</p> 
 </div>
 
-<div id="Tokyo" class="w3-container city" style="display:none">
+<div id="Home3" class="tab" style="display:none">
   <h2>Tokyo</h2>
   <p>Tokyo is the capital of Japan.</p>
 </div>
   
-<div class="w3-container">
+<div class="title-content">
   <h2><title>{{ page.title }}</title></h2>
   <p>{{ content }}</p>
 </div>
 
 <script>
-function openCity(cityName) {
+function openTab(tabName) {
   var i;
-  var x = document.getElementsByClassName("city");
+  var x = document.getElementsByClassName("tab");
   for (i = 0; i < x.length; i++) {
     x[i].style.display = "none";  
   }
-  document.getElementById(cityName).style.display = "block";  
+  document.getElementById(tabName).style.display = "block";  
 }
 </script>
 
