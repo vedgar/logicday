@@ -1,9 +1,8 @@
-
-# World Logic Day 2023
+<h1>World Logic Day 2023</h1>
 ## January 13-14, 2023, Zagreb, Croatia
 
 <img src="Banner.jpg">
-<font size="+1">
+
 ++NEKI TEKST++
 
 <b>Important dates</b>
@@ -34,4 +33,4 @@ Online participants should register via mail to the same address with the same s
 Tin Adlešić, tin.adlesic@ufzg.hr
 <br>
 Vedran Čačić, veky@math.hr
-</font>
+
