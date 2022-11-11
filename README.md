@@ -4,7 +4,7 @@
 <img src="Banner.jpg">
 
 ++NEKI TEKST++
-
+<font size="+2">
 <b>Important dates</b>
 <br>
 Registration and submission deadline: December 27th
@@ -36,3 +36,4 @@ Online participants should register via mail to the same address with the same s
 Tin Adlešić, tin.adlesic@ufzg.hr
 <br>
 Vedran Čačić, veky@math.hr
+</font>
