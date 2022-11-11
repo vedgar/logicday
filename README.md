@@ -4,9 +4,14 @@
 <img src="Banner.jpg">
 
 <p>
-  World Logic Day is an international day supporting the development of logic through teaching and research, as well as to public dissemination of the discipline.
+  ++općeniti tekst o svjetskom danu logike++ 
 </p>
 
+<p>
+  ++neki tekst++. The conference will take place at the Faculty of Science--Department of Mathematics, University of Zagreb. Talks will be held in person, while online participation will be available for listeners only. Each talk will be allocate 45 minutes for presentation and 15 minutes for discussion.
+</p>
+  
+  
 <font size="+2">
 <p>
   <b>Important dates</b>
