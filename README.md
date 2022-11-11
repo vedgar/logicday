@@ -1,5 +1,5 @@
 <h1>World Logic Day 2023</h1>
-## January 13-14, 2023, Zagreb, Croatia
+<h2>January 13-14, 2023, Zagreb, Croatia</h2>
 
 <img src="Banner.jpg">
 
