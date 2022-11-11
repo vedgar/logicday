@@ -3,7 +3,9 @@
 
 <img src="Banner.jpg">
 
-++NEKI TEKST++
+<p>
+  World Logic Day is an international day supporting the development of logic through teaching and research, as well as to public dissemination of the discipline.
+</p>
 
 <font size="+2">
 <p>
