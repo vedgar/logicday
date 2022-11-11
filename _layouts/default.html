@@ -5,11 +5,6 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
 
-<div class="w3-container">
-  <h2>Tabs</h2>
-  <p>Tabs are perfect for single page web applications, or for web pages capable of displaying different subjects. Click on the links below.</p>
-</div>
-
 <div class="w3-bar w3-black">
   <button class="w3-bar-item w3-button" onclick="openCity('London')">London</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Paris')">Paris</button>
@@ -30,6 +25,11 @@
   <h2>Tokyo</h2>
   <p>Tokyo is the capital of Japan.</p>
 </div>
+  
+<div class="w3-container">
+  <h2><title>{{ page.title }}</title></h2>
+  <p>{{ content }}</p>
+</div>
 
 <script>
 function openCity(cityName) {
@@ -41,10 +41,6 @@ function openCity(cityName) {
   document.getElementById(cityName).style.display = "block";  
 }
 </script>
-       
-<!-- <div style="padding-left:16px">
-  <h2><title>{{ page.title }}</title></h2>
-  <p>{{ content }}</p>
-</div> -->
+
   </body>
 </html>
