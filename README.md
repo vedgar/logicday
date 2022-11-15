@@ -3,7 +3,7 @@
 
 <p>
   World Logic Day is an international day of supporting the development of logic through teaching and research, as well as to public dissemination of the discipline.
-It was procalimed on 26th November 2019 by the UNESCO and the date chosen was January 14. That day corresponds to the date of birth of Alfred Tarski and to the date of death of Kurt Gödel.
+It was proclaimed on 26th November 2019 by the UNESCO and the date chosen was January 14. That day corresponds to the date of birth of Alfred Tarski and to the date of death of Kurt Gödel.
 </p>
 
 <p>
