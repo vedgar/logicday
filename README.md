@@ -3,11 +3,19 @@
 
 <p>
   World Logic Day is an international day of supporting the development of logic through teaching and research, as well as to public dissemination of the discipline.
-It was proclaimed on 26th November 2019 by the UNESCO and the date chosen was January 14. That day corresponds to the date of birth of Alfred Tarski and to the date of death of Kurt Gödel.
+It was proclaimed on 26th November 2019 by the UNESCO and the date chosen was January 14. It corresponds to the date of birth of Alfred Tarski and to the date of death of Kurt Gödel.
 </p>
 
 <p>
+<a href="https://wld.cipsh.international/index.html">Conseil International de Philosophie et des Sciences Humaines (CIPSH)</a>,
+<br>
+<a href="https://www.unesco.org/en/days/world-logic">UNESCO</a>
+</p>
+
+<p>
+<center>
 <img src="Banner.jpg">
+</center>
 </p>
 
 <p>
@@ -43,8 +51,9 @@ Online participants should register via mail to the same address with the same s
 <p>
 <b>Venue</b>
 <br>
-<a href="https://www.pmf.unizg.hr/math/en">Universty of Zagreb-Department of Mathematics</a>,
-<a href="https://www.google.com/maps/place/Faculty+of+Science+-+Department+of+Mathematics/@45.8269932,15.9854367,18.25z/data=!4m5!3m4!1s0x4765d70eb94a8233:0x19534949a4612a83!8m2!3d45.8268954!4d15.9855294">map</a>
+<a href="https://www.pmf.unizg.hr/math/en">Faculty of Science--Department of Mathematics, Universty of Zagreb</a>,
+<br>
+<a href="https://www.google.com/maps/place/Faculty+of+Science+-+Department+of+Mathematics/@45.8269932,15.9854367,18.25z/data=!4m5!3m4!1s0x4765d70eb94a8233:0x19534949a4612a83!8m2!3d45.8268954!4d15.9855294">Map</a>
 </p>
 
 <p>
