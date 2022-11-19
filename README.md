@@ -51,7 +51,7 @@ Online participants should register via mail to the same address with the same s
 <p>
 <b>Venue</b>
 <br>
-<a href="https://www.pmf.unizg.hr/math/en">Faculty of Science--Department of Mathematics, Universty of Zagreb</a>,
+<a href="https://www.pmf.unizg.hr/math/en">Faculty of Science - Department of Mathematics, Universty of Zagreb</a>,
 <br>
 <a href="https://www.google.com/maps/place/Faculty+of+Science+-+Department+of+Mathematics/@45.8269932,15.9854367,18.25z/data=!4m5!3m4!1s0x4765d70eb94a8233:0x19534949a4612a83!8m2!3d45.8268954!4d15.9855294">Map</a>
 </p>
