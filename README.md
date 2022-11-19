@@ -19,7 +19,7 @@ It was proclaimed on 26th November 2019 by the UNESCO and the date chosen was Ja
 </p>
 
 <p>
-  The conference will take place at the Faculty of Science--Department of Mathematics, University of Zagreb. Talks will be held in person, while online participation will be available for listeners only. Each talk will be allocated 45 minutes for presentation and 15 minutes for discussion.
+  The conference will take place at the Faculty of Science - Department of Mathematics, University of Zagreb. Talks will be held in person, while online participation will be available for listeners only. Each talk will be allocated 45 minutes for presentation and 15 minutes for discussion.
 </p>
   
   
