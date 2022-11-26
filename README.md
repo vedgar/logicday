@@ -46,6 +46,8 @@ No registration fee.
 Authors should send an abstract to tin.adlesic@ufzg.hr with subject WLD2023 ZAGREB.
 <br>
 Online participants should register via mail to the same address with the same subject.
+<br>
+<a href="latex_template.tex" download> Abstract template.</a>
 </p>
 
 <p>
