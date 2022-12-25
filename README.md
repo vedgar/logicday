@@ -64,5 +64,7 @@ Online participants should register via mail to the same address with the same s
 Tin Adlešić, tin.adlesic@ufzg.hr
 <br>
 Vedran Čačić, veky@math.hr
+<br>
+Marko Doko, m.doko@
 </p>
 </font>
