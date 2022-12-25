@@ -65,6 +65,6 @@ Tin Adlešić, tin.adlesic@ufzg.hr
 <br>
 Vedran Čačić, veky@math.hr
 <br>
-Marko Doko, m.doko@
+Marko Doko, M.Doko@hw.ac.uk
 </p>
 </font>
