@@ -25,7 +25,7 @@ It was proclaimed on 26th November 2019 by the UNESCO and the date chosen was Ja
   
 <font size="+2">
 <p>
-  <a href="Program_konferencije.pdf" download> Schedule</a>
+  <a href="Schedule.pdf" download> Schedule</a>
   <br>
   <a href="Book_of_abstracts.pdf" download> Book of abstracts</a>
 </p>
