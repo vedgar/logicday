@@ -25,29 +25,9 @@ It was proclaimed on 26th November 2019 by the UNESCO and the date chosen was Ja
   
 <font size="+2">
 <p>
-  <b>Important dates</b>
+  <a href="Program_konferencije.pdf" download> Schedule</a>
   <br>
-  Registration and submission deadline: December 27th
-  <br>
-  Author notification: January 1st
-  <br>
-  Programme: January 2nd
-</p>
-
-<p>
-<b>Registration:</b>
-<br>
-No registration fee.
-</p>
-
-<p>
-<b>Submission</b>
-<br>
-Authors should send an abstract to tin.adlesic@ufzg.hr with subject WLD2023 ZAGREB.
-<br>
-Online participants should register via mail to the same address with the same subject.
-<br>
-<a href="latex_template.tex" download> Abstract template.</a>
+  <a href="Book_of_abstracts.pdf" download> Book of abstracts</a>
 </p>
 
 <p>
